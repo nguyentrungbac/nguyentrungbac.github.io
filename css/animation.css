@@ -40,22 +40,22 @@ body { background-color:#333; }
 /*Animation Love You*/
 @keyframes myAnimation {
     from {left: 10px;}
-    to {left: 300px;}
+    to {left: 1000px;}
 }
 
 @-moz-keyframes myAnimation {
     from {left: 10px;}
-    to {left: 300px;}
+    to {left: 1000px;}
 }
 
 @-webkit-keyframes myAnimation {
     from {left: 10px;}
-    to {left: 300px;}
+    to {left: 1000px;}
 }
 
 @-o-keyframes myAnimation {
     from {left: 10px;}
-    to {left: 300px;}
+    to {left: 1000px;}
 }
 
 /*Animation Happy Birth Day*/
